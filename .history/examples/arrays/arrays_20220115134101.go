@@ -32,6 +32,5 @@ func main() {
 			twoD[i][j] = i + j
 		}
 	}
-	// sky test
 	fmt.Println("2d: ", twoD)
 }
